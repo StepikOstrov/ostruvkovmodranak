@@ -19,5 +19,22 @@ header{
   text-algin: center;
 }
 
+header h1 {
+  margin-bottom: 1rem
+}
+
+nav a {
+  color: white;
+  text-decoration: none;
+  margin: 0 15px;
+  padding: 8px 16px;
+  border-radius: 10px;
+  transition: background 0.67s;
+}
+
+nav a:hover {
+  background: #34495e;
+}
+
   
   
