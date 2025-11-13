@@ -1,1 +1,1 @@
-# ostruvkovmodranak
+# ostruvkov modranak
