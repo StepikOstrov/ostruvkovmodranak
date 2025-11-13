@@ -42,3 +42,8 @@ nav a:hover {
   margin: 20%;
   border:_ 1px black;
 }
+
+p {
+  font-size: 24px;   /* zvětší písmo */
+}
+
